@@ -47,7 +47,7 @@ for i in range(10):
 # Basic properties
 
 * `document` object is main object of a document
-  ** `document.class` – class of a documemnt – f. e. article, beamer
-  ** `document.title` – title of a document – equivalent to `\title{}`
-  ** `document.author` – author of a document – equivalent to `\author{}`
-  ** `document.date` – date of a document – equivalent to `\date{}`
+  * `document.document_class` – class of a documemnt – f. e. article, beamer
+  * `document.title` – title of a document – equivalent to `\title{}`
+  * `document.author` – author of a document – equivalent to `\author{}`
+  * `document.date` – date of a document – equivalent to `\date{}`
