@@ -1,0 +1,7 @@
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath} 
+\usepackage{hyperref}
+\usepackage{gensymb}
+\usepackage[T1]{fontenc} 
